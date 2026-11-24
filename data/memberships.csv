@@ -1,0 +1,4 @@
+member_id,household_id,tier,valid_from,valid_to,renewal_state,joined_at
+M-01,HH-1,household,2026-01-01,2026-12-31,due,2024-06-03
+M-02,HH-1,household,2026-01-01,2026-12-31,due,2025-03-12
+M-03,HH-2,individual,2026-09-01,2027-08-31,active,2026-09-01

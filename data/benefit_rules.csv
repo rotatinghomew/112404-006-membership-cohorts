@@ -1,0 +1,4 @@
+rule_id,tier,benefit,valid_from,valid_to,unit_cost,capacity_limit,sharing
+BR-1,household,event-seat,2026-01-01,2026-12-31,45,120,shared
+BR-2,household,cross-museum,2026-01-01,2026-12-31,18,,shared
+BR-3,individual,ticket-discount,2026-09-01,2027-08-31,12,,personal

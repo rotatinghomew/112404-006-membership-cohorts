@@ -1,0 +1,4 @@
+event_id,member_id,benefit,event_date,event_type,quantity,venue
+BE-1,M-01,event-seat,2026-10-05,booked,2,V-1
+BE-2,M-02,event-seat,2026-10-05,waitlisted,1,V-1
+BE-3,M-03,ticket-discount,2026-10-07,redeemed,1,V-2
