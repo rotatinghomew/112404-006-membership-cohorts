@@ -1,4 +1,4 @@
-member_id,period_end,outcome,offer_id,offer_state,source
-M-11,2025-12-31,renewed,OF-1,accepted,crm
-M-12,2025-12-31,lapsed,OF-2,sent,crm
-M-13,2026-06-30,downgraded,OF-3,accepted,desk
+member_id,household_id,period_end,outcome,offer_id,offer_state,source
+M-01,HH-1,2025-12-31,renewed,OF-1,accepted,crm
+M-02,HH-1,2025-12-31,lapsed,OF-2,sent,crm
+M-03,HH-2,2026-08-31,downgraded,OF-3,accepted,desk
